@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hazem Abdelsattar Mohammed</h1>
 <h3 align="center">Currently CS Student , Looking for making great things</h3>
 
-<img alt="Looking" height ="250" width="700" src="https://c4.wallpaperflare.com/wallpaper/527/102/511/programming-code-php-wallpaper-preview.jpg">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazemabdo2002&label=Profile%20views&color=0e75b6&style=flat" alt="hazemabdo2002" /> </p>
 
 - 🔭 I’m currently working on **Field Training Project**
